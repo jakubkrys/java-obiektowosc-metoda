@@ -32,7 +32,5 @@ public class RadiatorMAIN {
             r.display();
         }
 
-        radiators[1].weight = 119;
-        radiators[1].display();
     }
 }
